@@ -1,0 +1,34 @@
+C:\Users\Benji\source\repos\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.exe
+C:\Users\Benji\source\repos\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.deps.json
+C:\Users\Benji\source\repos\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.runtimeconfig.json
+C:\Users\Benji\source\repos\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.dll
+C:\Users\Benji\source\repos\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.pdb
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project_1.Form1.resources
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.GenerateResource.cache
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfoInputs.cache
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfo.cs
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.dll
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\refint\Project 1.dll
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.pdb
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.genruntimeconfig.cache
+C:\Users\Benji\source\repos\Project 1\Project 1\obj\Debug\net8.0-windows\ref\Project 1.dll
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.exe
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.deps.json
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.runtimeconfig.json
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.dll
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.pdb
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project_1.Login.resources
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.GenerateResource.cache
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfoInputs.cache
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfo.cs
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.sourcelink.json
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.dll
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\refint\Project 1.dll
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.pdb
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.genruntimeconfig.cache
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\ref\Project 1.dll
+C:\Users\Benji\Source\Repos\InventoryProj\Project 1\Project 1\obj\Debug\net8.0-windows\Project_1.MainForm.resources
